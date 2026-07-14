@@ -1,0 +1,18 @@
+{
+  "name": "mylife",
+  "version": "1.0.0-rc3.3",
+  "private": true,
+  "type": "module",
+  "description": "MyLife — metaconciencia conductual. Motor desacoplado de React, reutilizable en nativo.",
+  "author": "Osk",
+  "scripts": {
+    "build": "esbuild src/main.jsx --bundle --minify --format=iife --target=es2018 --define:process.env.NODE_ENV=\"production\" --outfile=dist/app.js",
+    "dev": "vite",
+    "test:engine": "tsx tests/test-engine-rc3.mjs && tsx tests/test-engine-rc2.mjs",
+    "test:clinical": "tsx tests/test-clinical-fixtures.mjs",
+    "test:ui": "python3 tests/audit-ui-36steps.py",
+    "test": "npm run test:engine && npm run test:clinical"
+  },
+  "dependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "esbuild": "^0.21.0", "tsx": "^4.0.0", "vite": "^5.0.0" }
+}
