@@ -1,0 +1,16 @@
+{
+  "version": "3.4.2",
+  "engine": "1.7.0",
+  "schemaMin": 2,
+  "schemaMax": 3,
+  "cache": "mylife-3.4.2-v1",
+  "sha256": "d8b6702638c9d02abf796e58ecd08f54ee399b0e42e19eb6643e8a1c1265ec98",
+  "changelog": [
+    "✏️ ¿Por qué?: opcional, un toque en el motivo; se ofrece al tercer cigarro en 30 min o a la tercera de alcohol",
+    "😀 Cómo amaneces y cómo te duermes (opcional): se ve por día y, con datos suficientes, contra cuánto fumas",
+    "📈 PROGRESO: tu día de hoy en una línea, tus porqués, dónde fumas y el acumulado",
+    "🌳 Lugares de un toque y 🏃 ejercicio (Spinning, lagartijas, dominadas…)",
+    "❓ Cómo se usa (en MÁS) · contadores animados · medición desde tu próximo día completo"
+  ],
+  "builtAt": "2026-11-17T14:25:22+00:00"
+}
