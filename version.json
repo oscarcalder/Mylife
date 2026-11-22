@@ -1,16 +1,16 @@
 {
-  "version": "3.4.2",
+  "version": "3.5.0",
   "engine": "1.7.0",
   "schemaMin": 2,
   "schemaMax": 3,
-  "cache": "mylife-3.4.2-v1",
-  "sha256": "d8b6702638c9d02abf796e58ecd08f54ee399b0e42e19eb6643e8a1c1265ec98",
+  "cache": "mylife-3.5.0-v1",
+  "sha256": "5b5df0eab60c9a0f72c6d4c1938b930f377894d7f6484d487d08479957e2e410",
   "changelog": [
-    "✏️ ¿Por qué?: opcional, un toque en el motivo; se ofrece al tercer cigarro en 30 min o a la tercera de alcohol",
-    "😀 Cómo amaneces y cómo te duermes (opcional): se ve por día y, con datos suficientes, contra cuánto fumas",
-    "📈 PROGRESO: tu día de hoy en una línea, tus porqués, dónde fumas y el acumulado",
-    "🌳 Lugares de un toque y 🏃 ejercicio (Spinning, lagartijas, dominadas…)",
-    "❓ Cómo se usa (en MÁS) · contadores animados · medición desde tu próximo día completo"
+    "📋🎡 Dos apps en una: Registro (HOY · PROGRESO · MÁS) y Personal (Rueda · Pulso · Claridad · Mi espacio), mismos datos",
+    "↕️ Todas las pantallas bajan libres y nada queda tapado por la barra de abajo",
+    "🎯 Plan tocable: ver Reducir (3 tramos) y Dejar; te dice si lo estás cumpliendo o no",
+    "🏃 Ejercicio de antes (hace 1 h, 2 h…), con hora y 🗑 para borrar",
+    "🌗 Tema claro blanco y gris por defecto; oscuro a un toque"
   ],
-  "builtAt": "2026-11-17T14:25:22+00:00"
+  "builtAt": "2026-11-22T02:58:53+00:00"
 }
