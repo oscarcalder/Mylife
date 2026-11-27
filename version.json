@@ -1,16 +1,16 @@
 {
-  "version": "3.5.0",
+  "version": "3.7.0",
   "engine": "1.7.0",
   "schemaMin": 2,
   "schemaMax": 3,
-  "cache": "mylife-3.5.0-v1",
-  "sha256": "5b5df0eab60c9a0f72c6d4c1938b930f377894d7f6484d487d08479957e2e410",
+  "cache": "mylife-3.7.0-v1",
+  "sha256": "02d64dbadb284bbe1830aba8e41bb0d8017af5467b859c04efcdbdae2f255ed4",
   "changelog": [
-    "📋🎡 Dos apps en una: Registro (HOY · PROGRESO · MÁS) y Personal (Rueda · Pulso · Claridad · Mi espacio), mismos datos",
-    "↕️ Todas las pantallas bajan libres y nada queda tapado por la barra de abajo",
-    "🎯 Plan tocable: ver Reducir (3 tramos) y Dejar; te dice si lo estás cumpliendo o no",
-    "🏃 Ejercicio de antes (hace 1 h, 2 h…), con hora y 🗑 para borrar",
-    "🌗 Tema claro blanco y gris por defecto; oscuro a un toque"
+    "🚬 Tu cajetilla de hoy y ⏰ tu día por hora (contra ayer) · 🔥 aviso de racha",
+    "💭 Emociones: 😊 😐 😔 en un toque; 🔎 Profundizar sólo si quieres, con preguntas que cambian",
+    "✨ Una acción concreta al final y luego ¿te ayudó? · 🧠 Patrones: qué emoción te jala a fumar",
+    "⚡ Descarga rápida: escaleras, sentadillas, lagartijas, 5 min · 🏠 Casa al dormir y despertar",
+    "✉️ Frase del día con dibujo · 📊 Cómo voy por sustancia"
   ],
-  "builtAt": "2026-11-22T02:58:53+00:00"
+  "builtAt": "2026-11-27T01:00:25+00:00"
 }

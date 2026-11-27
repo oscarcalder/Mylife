@@ -1,7 +1,7 @@
 /* MyLife Service Worker — RC4.4 (P6)
    Cache-first para el shell; network-first para version.json.
    CACHE_VERSION separado de APP_VERSION (§17-18). */
-const CACHE = "mylife-3.5.0-v1";
+const CACHE = "mylife-3.7.0-v1";
 const SHELL = ["./automatic.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
